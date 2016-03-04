@@ -1,0 +1,19 @@
+A2Q1 written responses
+
+a)	True
+b)	True
+c)	False
+d)	False
+e)	False
+f)	True
+g)	True
+h)	True
+
+A2Q2 written responses
+
+These two statements are the same because the both behave the same way. 
+In both statements, the robot will eventually turn left because there is no 
+action to make the robot turn right. So if it is told to turn right, it will 
+not because it can’t so it moves onto the next action, and if it is told to 
+turn left it will ignore the right turn action.
+
